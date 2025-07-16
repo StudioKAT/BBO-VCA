@@ -100,4 +100,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ## Revision History
 
-- `2025-06-24`: v1.0 Release
+- `2025-07-17`: v1.0 Release

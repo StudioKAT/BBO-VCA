@@ -48,8 +48,8 @@ Both the triangle and square waves are routed through dedicated linear VCAs, all
 ## 販売 / Sales
 
 StudioKATオフィシャルショップで販売しています。(日本国内限定)  
-https://www.studiokat.jp/
-
+ https://www.studiokat.jp/items/113562094
+ 
 
 ## ライセンス / License
 
@@ -67,4 +67,4 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ## 更新履歴 / Changelog
 
-- `2025-06-25` Released version 1.0
+- `2025-07-17` Released version 1.0
