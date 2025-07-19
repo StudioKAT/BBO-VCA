@@ -40,7 +40,7 @@ Both the triangle and square waves are routed through dedicated linear VCAs, all
 ## 仕様 / Spec
 - Format: Eurorack
 - Function: Oscillator / LFO
-- Current needs: +12V: 60mA, -12V: 60mA
+- Current needs: +12V: 30mA, -12V: 30mA
 - Width: 8 HP
 - Depth: 25mm (including power connector)
 

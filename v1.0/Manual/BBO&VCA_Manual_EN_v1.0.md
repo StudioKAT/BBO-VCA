@@ -22,7 +22,7 @@ Both the triangle and square waves are passed through dedicated linear VCAs, all
 - **Format**: Eurorack  
 - **Width**: 8 HP  
 - **Depth**: 25 mm  
-- **Current Consumption**: +12V: 60mA / -12V: 60mA  
+- **Current Consumption**: +12V: 30mA / -12V: 30mA  
 
 > **IMPORTANT**: Connect the ribbon cable so that the red stripe aligns with -12V.  
 > Incorrect connection may damage the module.  
